@@ -1,3 +1,7 @@
+The original version while trying to install CESM 2.2.2 runs into the error of it using SVN which is not supported anymore instead of git. I have just changed the Externals_CAMS.cfg file here and then linked it to the Externals.cfg file in the original CESM model bundle. The model runs properly now!!
+
+
+
 # CAM: The Community Atmosphere Model
 
 ## NOTE: This is **unsupported** development code and is subject to the [CESM developer's agreement](http://www.cgd.ucar.edu/cseg/development-code.html).
